@@ -10,5 +10,4 @@ export const StyledButton = styled.button`
       display: inline-block;
       font-size:16px;
       cursor: pointer;
-      transition: 0.5s all ease-out;
-`
+      transition: 0.5s all ease-out`
